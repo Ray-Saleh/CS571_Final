@@ -1,0 +1,7 @@
+Number of processes: 4
+Total elapsed time: 26
+Throughput: 1
+CPU utilization: 1.11538
+Average waiting time: 10.5
+Average turnaround time: 17.75
+Average response time: 10.5
